@@ -1,4 +1,4 @@
-# Java-console-Validation---Question-1-Section-B-
+# Series-Code-Question-1-section-A-and-B-
 
 References 
 
