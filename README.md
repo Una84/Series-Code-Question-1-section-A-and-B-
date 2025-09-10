@@ -1,2 +1,7 @@
-# Series-Code-Question-1-section-A-and-B-
-This is a Series selection Code
+References
+
+The following sources were used while building this project:
+
+GeeksforGeeks Java Programming
+
+W3Schools Java Tutorial
