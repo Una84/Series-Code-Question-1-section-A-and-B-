@@ -1,6 +1,6 @@
 # Series-Code-Question-1-section-A-and-B-
 
-This project was created for learning and practice purposes. It includes Java.
+This project was implimented for learning and practice purposes --It includes Java Series Code.
 
 ## References  
 
