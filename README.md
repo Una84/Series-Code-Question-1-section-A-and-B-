@@ -1,7 +1,10 @@
-References
+References 
 
-The following sources were used while building this project:
+The following sources is where i got my assistance from to building this project: 
 
-GeeksforGeeks Java Programming
+GeeksforGeeks Java Programming 
 
-W3Schools Java Tutorial
+W3Schools Java Tutorial 
+
+ 
+ 
