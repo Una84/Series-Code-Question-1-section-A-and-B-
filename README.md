@@ -1,5 +1,4 @@
 # Java-console-Validation---Question-1-Section-B-
-This is Java console Validation Code
 
 References 
 
